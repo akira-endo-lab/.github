@@ -7,6 +7,7 @@ Ongoing research projects include:
 * Respiratory syncytial virus
 * Respiratory infections within schools and households
 * Vaccine decision making
+* Social and sexual contact behaviours
 * Branching process models
 
 ## News
