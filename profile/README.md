@@ -1,4 +1,13 @@
+## Research
 Our research aims to use mathematical modelling to better understand transmission dynamics of infectious diseases and inform control efforts.
+
+Ongoing research projects include:
+* Global mpox outbreaks (clade IIb, clade Ib)
+* Seasonal influenza
+* Respiratory syncytial virus
+* Respiratory infections within schools and households
+* Vaccine decision making
+* Branching process models
 
 ## News
 
