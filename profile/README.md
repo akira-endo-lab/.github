@@ -11,7 +11,8 @@ Ongoing research projects include:
 * Branching process models
 
 ## News
-
+**2025-02-04:**  Our team now has an official profile here!
+ 
 ## Selected publications
 1. Asakura TR, Jung S-m, Jin S, Hu G, Endo A, Dickens BL. Characterising global risk profiles of Mpox clade Ib importation. J Travel Med. 2024;taae136. [doi:10.1093/jtm/taae136](https://doi.org/10.1093/jtm/taae136)
 1. Jung S-m, Miura F, Murayama H, Funk S, Wallinga J, Lessler J, Endo A. Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022. J Infect Dis. 2024;jiae433. [doi:10.1093/infdis/jiae433](https://doi.org/10.1093/infdis/jiae433)
